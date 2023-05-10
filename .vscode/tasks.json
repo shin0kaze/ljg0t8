@@ -1,0 +1,13 @@
+{
+    "tasks": [
+        {
+            "label": "chrome with 9222",
+            "type": "shell",
+            "command": "C:\\Program Files\\Google\\Chrome Dev\\Application\\chrome",
+            "args": [
+                "--remote-debugging-port=9222"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}
